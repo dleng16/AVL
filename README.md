@@ -1,1 +1,1 @@
-# USC Autonomous Vehicles Labs
+# USC Autonomous Vehicle Labs
