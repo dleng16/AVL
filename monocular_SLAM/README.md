@@ -1,17 +1,8 @@
 # twitchslam
 
-A toy implementation of monocular SLAM written while livestreaming.
+implementation of monocular SLAM
 
 <img width=600px src="https://raw.githubusercontent.com/geohot/twitchslam/master/example.png" />
-
-Stream
------
-
-https://www.twitch.tv/tomcr00s3
-
-Will be streaming again tomorrow. May 28, 2018
-
-By the end of the day, twitchslam will be decent.
 
 Usage
 -----
