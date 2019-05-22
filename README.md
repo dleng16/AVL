@@ -1,1 +1,1 @@
-# AVL
+# USC Autonomous Vehicle Labs
